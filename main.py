@@ -21,4 +21,4 @@ def find_anagram(word, anagram):
 a = input("enter the word: ")
 b = input("enter the anagram: ")
 
-print(find_anagram(a.strip(), b.strip()))
+print(find_anagram(a.strip().replace(" ", ""), b.strip().replace(" ", "")))
