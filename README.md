@@ -1,2 +1,2 @@
 # Finding-anagrams
-Checks if two words are anagrams
+This program collects two inputs, call a function with those two inputs and checks if they are anagrams.
